@@ -10,7 +10,7 @@
 💬 Ask me about **#Javascript #React.JS/Native #NodeJS**
 
 <p align="left">
- <a href="https://twitter.com/junaid-home" target="blank"><img src="https://img.shields.io/twitter/follow/junaid_home?logo=twitter&style=for-the-badge" alt="junaid javed" /></a>
+ <a href="https://twitter.com/junaid_home" target="blank"><img src="https://img.shields.io/twitter/follow/junaid_home?logo=twitter&style=for-the-badge" alt="junaid javed" /></a>
 </p>
 
 ### Connect With Me:
