@@ -5,9 +5,9 @@
 
 🚀 I’m currently working on React Native & MERN Stack,
 
-🌱 I’m currently learning Django & Mechine Learning.
+🌱 I’m currently learning DevOps (kubernetes,jenkins,ansible,terraform,nexus,aws,gcp,do,serverless,cdk).
 
-💬 Ask me about **#Javascript #React.JS/Native #NodeJS**
+💬 Ask me about **#Javascript #React.JS/Native #NodeJS #Microservices #DevOps**
 
 <p align="left">
  <a href="https://twitter.com/junaid_home" target="blank"><img src="https://img.shields.io/twitter/follow/junaid_home?logo=twitter&style=for-the-badge" alt="junaid javed" /></a>
