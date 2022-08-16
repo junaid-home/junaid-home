@@ -19,6 +19,7 @@
 <a href="https://twitter.com/junaid_home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaid javed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/junaid-home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid javed" height="30" width="40" /></a>
  <a href="https://fiverr.com/junaid_home" target="blank"><img align="center" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon.5b3b346.ico" alt="junaid javed Fiverr" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~0141a85a752046f76f" target="blank"><img align="center" src="https://www.upwork.com/favicon.ico" alt="Upwork" height="30" width="40" /></a>
 </p>
 
 ### Languages & Tools:
